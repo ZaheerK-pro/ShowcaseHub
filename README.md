@@ -1,12 +1,4 @@
-# ExoApe Landing Clone
-
-✏️ Made for practice
-
-[Live View](https://exoape-landing-clone.vercel.app/)
-
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+# ShowCaseHub
 
 ``` bash
 # Install dependencies (only the first time)
